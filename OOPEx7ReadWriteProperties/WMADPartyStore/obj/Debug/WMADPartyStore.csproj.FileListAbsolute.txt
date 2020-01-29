@@ -1,0 +1,5 @@
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\WMADPartyStore\bin\Debug\WMADPartyStore.dll
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\WMADPartyStore\bin\Debug\WMADPartyStore.pdb
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\WMADPartyStore\obj\Debug\WMADPartyStore.dll
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\WMADPartyStore\obj\Debug\WMADPartyStore.pdb
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\WMADPartyStore\obj\Debug\WMADPartyStore.csprojAssemblyReference.cache

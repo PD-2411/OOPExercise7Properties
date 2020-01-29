@@ -1,0 +1,12 @@
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties\bin\Debug\OOPEx7ReadWriteProperties.exe.config
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties\bin\Debug\OOPEx7ReadWriteProperties.exe
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties\bin\Debug\OOPEx7ReadWriteProperties.pdb
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties\obj\Debug\OOPEx7ReadWriteProperties.csprojAssemblyReference.cache
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties\obj\Debug\OOPEx7ReadWriteProperties.Form1.resources
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties\obj\Debug\OOPEx7ReadWriteProperties.Properties.Resources.resources
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties\obj\Debug\OOPEx7ReadWriteProperties.csproj.GenerateResource.cache
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties\obj\Debug\OOPEx7ReadWriteProperties.exe
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties\obj\Debug\OOPEx7ReadWriteProperties.pdb
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties\bin\Debug\WMADPartyStore.dll
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties\bin\Debug\WMADPartyStore.pdb
+D:\NBCC (2019-2020) - Winter Term\OOP - Object Orienterd Programming\OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties\obj\Debug\OOPEx7ReadWriteProperties.csproj.CopyComplete

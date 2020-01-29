@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPEx7ReadWriteProperties", "OOPEx7ReadWriteProperties\OOPEx7ReadWriteProperties.csproj", "{F9D907AD-779D-464C-8E48-858DCAB7EF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMADPartyStore", "WMADPartyStore\WMADPartyStore.csproj", "{EE3474ED-CBE3-4C2A-957D-24DBCA2748F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9D907AD-779D-464C-8E48-858DCAB7EF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D907AD-779D-464C-8E48-858DCAB7EF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D907AD-779D-464C-8E48-858DCAB7EF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D907AD-779D-464C-8E48-858DCAB7EF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE3474ED-CBE3-4C2A-957D-24DBCA2748F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3474ED-CBE3-4C2A-957D-24DBCA2748F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3474ED-CBE3-4C2A-957D-24DBCA2748F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3474ED-CBE3-4C2A-957D-24DBCA2748F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E49C32C-B5EB-4BFA-8C0A-FFBC205809E0}
+	EndGlobalSection
+EndGlobal
